@@ -29,8 +29,3 @@ El modelo fue evaluado introduciendo vacíos artificiales en un subconjunto de d
 * **Machine Learning:** Scikit-learn
 * **Visualización:** Matplotlib, Seaborn
 * **Entorno:** Jupyter Notebook
-
-## Cómo ejecutar este proyecto
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repo.git`
-2. Instala las dependencias necesarias: `pip install pandas numpy scikit-learn matplotlib seaborn requests`
-3. Ejecuta el notebook principal para ver la descarga de datos, el entrenamiento y la validación en tiempo real.
