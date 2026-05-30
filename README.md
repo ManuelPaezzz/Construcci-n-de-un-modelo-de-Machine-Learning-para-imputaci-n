@@ -1,7 +1,5 @@
 # Imputación de Datos Hidrometeorológicos con Machine Learning
 
-Este proyecto aborda un problema clásico y crítico en la ciencia de datos ambientales: la pérdida de información en sensores meteorológicos debido a fallas técnicas, falta de mantenimiento o cortes de energía. 
-
 Utilizando datos históricos diarios de la estación 25015 de CONAGUA (Sinaloa), este repositorio implementa un modelo de **Machine Learning** orientado a la imputación de valores faltantes para cuatro variables climáticas clave: Precipitación, Evaporación, Temperatura Máxima y Temperatura Mínima.
 
 ##  Objetivo
